@@ -1,0 +1,4 @@
+key_resp_3.keys,key_resp_3.rt,key_resp_2.keys,key_resp_2.rt,key_resp_4.keys,key_resp_4.rt,trialsInst.thisRepN,trialsInst.thisTrialN,trialsInst.thisN,trialsInst.thisIndex,trialsInst.ran,infoType,thisWord,thisColor,condition,corrAns,participant,date,expName,psychopyVersion,OS,frameRate
+space,2.883,space,21.1415,1,0.764,0,0,0,0,1,instructions,RED,red,congruent,1,8,2022-03-06_09h48.32.318,stroop,2021.1.4,Win32,141.5428167
+,,,,0,1.3127,0,1,1,1,1,instructions,YELLOW,yellow,incongruent,0,8,2022-03-06_09h48.32.318,stroop,2021.1.4,Win32,141.5428167
+,,,,2,1.1305,0,2,2,2,1,instructions,YELLOW,blue,incongruent,2,8,2022-03-06_09h48.32.318,stroop,2021.1.4,Win32,141.5428167
